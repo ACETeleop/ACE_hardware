@@ -53,7 +53,7 @@ for Low-Cost Dexterous Teleoperation </h1>
 </p>
 
 ## Introduction
-The repository contains all the hardware for **ACE**. If you have already built your **ACE**, please see https://github.com/ACETeleop/ACETeleop for software setup and usage.
+This repository contains all the necessary hardware components for **ACE**. If you have already assembled your **ACE**, please refer to [this repository](https://github.com/ACETeleop/ACETeleop) for software setup and usage instructions. For detailed hardware assembly guidance, please visit the [complete instructions](https://docs.google.com/document/d/1sStEXkSqi03mnFAGhRTtuU14KrGu1ZqmN78boORJfaI/edit#heading=h.yjlslrppv3gx).
 
 ## Modular Structure
 
@@ -70,8 +70,6 @@ Each part has its own folder with the necessary components, making it easy to fi
 
 ## Assembly Instructions
 [![Watch the video](https://img.youtube.com/vi/L7fhZ4woVpM/maxresdefault.jpg)](https://youtu.be/L7fhZ4woVpM)
-
-Complete instructions can be found [here](https://docs.google.com/document/d/1sStEXkSqi03mnFAGhRTtuU14KrGu1ZqmN78boORJfaI/edit#heading=h.yjlslrppv3gx).
 
 ## Notes
 - The installation of the left and right arms has slight differences; they are symmetrical, so please pay attention.
